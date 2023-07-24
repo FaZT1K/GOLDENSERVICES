@@ -1,0 +1,126 @@
+.container {
+  width: 942px;
+  margin: 0 auto;
+}
+.contact {
+  background-color: black;
+}
+.contact_title {
+  color: white;
+  text-align: center;
+}
+.header > .container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.header_list {
+  display: flex;
+  width: 480px;
+  justify-content: space-between;
+}
+.header {
+  padding-top: 44px;
+}
+.services_logo {
+  text-align: center;
+}
+.services {
+  padding: 91px 0px 117px 0px;
+}
+.services_item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 274px;
+}
+.services_li-descr {
+  text-align: center;
+  margin-top: 22px;
+}
+.sevices_li-title {
+  margin: 0;
+  margin-top: 22px;
+}
+.services_list {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0;
+  margin-top: 87px;
+}
+.contact_title {
+  text-align: center;
+}
+.contact {
+  padding: 92px 0 115px 0;
+}
+.contact > input {
+  width: 455px;
+  height: 50px;
+  fill: #fff;
+  border: 1px solid solid #ccc;
+  padding: 12px 0 21px 20px;
+}
+.contact_form textarea {
+  width: 455px;
+  height: 50px;
+  fill: #fff;
+  background-color: #fff;
+}
+.header_logo {
+  font-family: Bilbo Swash Caps;
+  text-decoration: none;
+  color: #fed136;
+  text-align: center;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+}
+.header_link {
+  font-family: Montserrat;
+  text-decoration: none;
+  color: #fed136;
+  text-align: center;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+li {
+  list-style-type: none;
+}
+.services_logo {
+  color: #222;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+}
+.services_circle {
+  color: #222;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+}
+.contact_title {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.contact_btn {
+  color: #fff;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  background-color: #fed136;
+  text-align: center;
+}
